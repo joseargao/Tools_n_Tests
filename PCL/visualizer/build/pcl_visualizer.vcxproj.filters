@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\JoemFiles\Personal Docs\Tools\Tools_n_Tests\PCL\visualizer\pcl_visualizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\JoemFiles\Personal Docs\Tools\Tools_n_Tests\PCL\visualizer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0A10CA32-19BB-3D2F-925F-2C822B83DBF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
